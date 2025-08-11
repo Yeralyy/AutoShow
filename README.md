@@ -1,0 +1,1 @@
+AutoShow - Simple python script that allows you to automate show downloading from https://w140.zona.plus/tvseries/. Made for personal usage, i use it to download my favorite shows for my Jellyfin local stream. But you can still use it just to download your shows
